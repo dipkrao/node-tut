@@ -1,0 +1,20 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/dipkrao/node-tut.git)"
+  },
+  "keywords": [
+    "the",
+    "thug",
+    "developers"
+  ],
+  "author": "Deepak Yadav",
+  "license": "ISC"
+}
